@@ -5,4 +5,4 @@ This repository is my 365-day journey of continual coding in which I will solve 
 
 Starting at difficulty level 800 (codeforces)
 
-You may find me on LinkedIn here: https://www.linkedin.com/in/suhaibahmad42/
+You may connect on LinkedIn and grow more : https://www.linkedin.com/in/suhaibahmad42/
