@@ -10,8 +10,11 @@ class Solution
 public:
     bool canMakeArithmeticProgression(vector<int>& arr)
     {
-        if (!arr.empty())
+        if ((!arr.empty()))
         {
+            if (arr.size() == 2)
+                return true;
+            
             sort(arr.begin(), arr.end());
             int prev = 0, curr = arr[1] - arr[0];
 
