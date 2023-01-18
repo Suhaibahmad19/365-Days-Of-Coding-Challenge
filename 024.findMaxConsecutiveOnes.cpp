@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/convert-the-temperature/
+//https://leetcode.com/problems/max-consecutive-ones/
 #include<iostream>
 #include<algorithm>
 #include<vector>
